@@ -1,0 +1,12 @@
+{
+  "name": "elaine-88-chen-commonstyle",
+  "version": "1.0.0",
+  "description": "elaine-88-chen-commonstyle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["test", "style"],
+  "author": "elaine",
+  "license": "ISC"
+}
